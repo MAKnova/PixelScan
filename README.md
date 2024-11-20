@@ -111,32 +111,32 @@ The ensemble model combines:
 ## Figures & Visuals
 
 ### Ensemble Model
-![Ensemble Model](https://github.com/manvendrasingh09/PixelScan/blob/main/Resources/Ensemble%20Model.png) 
+![Ensemble Model](https://github.com/MAKnova/PixelScan/blob/main/Resources/Ensemble%20Model.png) 
 
 ### Sequential Diagram
-![Sequential Diagram](https://github.com/manvendrasingh09/PixelScan/blob/main/Resources/Sequential%20Diagram.png) 
+![Sequential Diagram](https://github.com/MAKnova/PixelScan/blob/main/Resources/Sequential%20Diagram.png) 
 
 ### Performance Graphs
 
 1. **Confusion Matrix**  
    The confusion matrix showcases the high number of true positives and true negatives, reflecting the model's reliability in DeepFake detection.  
-   ![Confusion Matrix](https://github.com/manvendrasingh09/PixelScan/blob/main/Resources/Confusion%20Matrix.png)
+   ![Confusion Matrix](https://github.com/MAKnova/PixelScan/blob/main/Resources/Confusion%20Matrix.png)
 
 2. **Training Accuracy**  
    The ACNN model's training accuracy started at 50% and steadily improved, reaching 98% by the final epoch.  
-   ![ACNN Training Accuracy](https://github.com/manvendrasingh09/PixelScan/blob/main/Resources/ACNN%20Training%20Accuracy.png)
+   ![ACNN Training Accuracy](https://github.com/MAKnova/PixelScan/blob/main/Resources/ACNN%20Training%20Accuracy.png)
 
 3. **Training Loss**  
    The ACNN model's training loss started at 1.6 and decreased to 0.07, showing effective learning during training.  
-   ![ACNN Training Loss](https://github.com/manvendrasingh09/PixelScan/blob/main/Resources/ACNN%20Training%20Loss.png)
+   ![ACNN Training Loss](https://github.com/MAKnova/PixelScan/blob/main/Resources/ACNN%20Training%20Loss.png)
 
 4. **Precision-Recall Curve**  
    The precision-recall curve with an area of 1.00 demonstrates the ensemble model's capability to maintain high precision and recall across all thresholds.  
-   ![Precision-Recall Curve](https://github.com/manvendrasingh09/PixelScan/blob/main/Resources/Precision-Recall%20Curve.png)
+   ![Precision-Recall Curve](https://github.com/MAKnova/PixelScan/blob/main/Resources/Precision-Recall%20Curve.png)
 
 5. **ROC Curve**  
    The ROC curve with an area of 1.00 highlights the strong performance of the ensemble model in distinguishing between real and DeepFake images.  
-   ![ROC Curve](https://github.com/manvendrasingh09/PixelScan/blob/main/Resources/ROC%20Curve.png)
+   ![ROC Curve](https://github.com/MAKnova/PixelScan/blob/main/Resources/ROC%20Curve.png)
 
 ---
 
