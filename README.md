@@ -1,4 +1,4 @@
-# PixelScan: Image Deepfake Detection
+# ![PixelScan Logo]([https://path-to-your-logo/logo.png](https://github.com/MAKnova/PixelScan/blob/main/Resources/PixelScan.png)) PixelScan: Image Deepfake Detection
 
 ## Overview
 
